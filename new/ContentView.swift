@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  new
 //
-//  Created by Melanie Trinh on 2023-07-14.
+//  Created by Hillary Trinh on 2023-07-14.
 //
 
 import SwiftUI
@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("Hello, world!")
+            Text("Hello, scholars!")
         }
         .padding()
     }
